@@ -43,6 +43,27 @@ Tüm detaylı prompt’lar için:
 👉 **prompts.md** dosyasını kontrol edin.
 
 ---
+1. Viral Instagram Reels Üretme Promptu
+2. Influencer Gönderi Açıklaması Promptu
+3. E-ticaret Ürün Gönderisi Promptu
+4. Profesyonel Story Senaryosu Promptu
+5. Rakip Analizi & İçerik Stratejisi Promptu
+6. Fotoğraf Postu İçin Açıklama Promptu
+7. Minimalist Tasarım İçeriği Promptu
+8. Trend Kovalayan Hashtag Promptu
+9. Markana Özel Tonlama Oluşturma Promptu
+10. Kişisel Marka Geliştirme Promptu
+11. Ürün Lansman Postu Promptu
+12. Karusel Eğitim İçeriği Promptu
+13. Motivasyon Postu Promptu
+14. Haftalık İçerik Planlama Promptu
+15. Reels Hook Cümleleri Promptu
+16. ChatGPT ile Marka Analizi Promptu
+17. Story İçin Etkileşim Soruları Promptu
+18. Ürün Fotoğrafı Açıklaması Promptu
+19. Eğlenceli İçerik Promptu
+20. Minimal Post İçeriği Promptu
+
 
 ## 🚀 NASIL KULLANILIR?
 
